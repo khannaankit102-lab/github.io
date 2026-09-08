@@ -117,7 +117,7 @@ To deploy your portfolio:
 
 1. **GitHub Pages**: This repository is already configured for GitHub Pages
 2. **Custom Domain**: Point your custom domain to the GitHub Pages URL
-3. **Other Hosts**: Download the files and upload to any web hosting service
+3. **Other Hosts**: Download the files and upload them to any web hosting service
 
 ## License
 
